@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Ben and I bridging storytelling, data, abd visualization to make information simpler and more accessible.
+I'm Ben. I love bridging storytelling, data, abd visualization to make information simple and accessible.
 
-Here's how it happened:
-
+Here's how I got into it:
 → Graduated with BA in Sound Engineering <br>
 → Worked as a promoter and booking agent in Berlin <br>
 → Moved to Amsterdam to work at Netflix, fell in love with data-driven decision making <br>
-→ Learned SQL, Python, Tableau, and dashboard design by working on passion projects <br>
+→ Learned SQL, Python, Tableau, Statistics, and Graphic Design by working on real projects <br>
 → Transitioned to data analyst and BI roles 
 
 Some recent projects: <br>
 <br>
-🏙️ How Amsterdam expanded over time <br>
-🎶 Bob Dylan's discography exploration <br>
+🏙️ [How Amsterdam expanded over time](https://github.com/ben-baror/amsterdam-construction-history) <br>
+🎶 [Bob Dylan's discography exploration](https://github.com/ben-baror/bob-dylan-discography-viz) <br>
