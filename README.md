@@ -26,3 +26,6 @@ I'm Ben. I love bridging storytelling, data, abd visualization to make informati
 ### 🛠️ Some recent projects: <br>
 🏙️ [How Amsterdam expanded over time](https://github.com/ben-baror/amsterdam-construction-history) <br>
 🎶 [Bob Dylan's discography exploration](https://github.com/ben-baror/bob-dylan-discography-viz) <br>
+
+### 📫 Get in touch: <br>
+ - [LinkedIn](https://www.linkedin.com/in/ben-baror/) <br>
