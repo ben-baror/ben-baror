@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Ben. I love bridging storytelling, data, abd visualization to make information simple and accessible.
 
-Here's how I got into it:
+Here's how I got into it:<br>
 → Graduated with BA in Sound Engineering <br>
 → Worked as a promoter and booking agent in Berlin <br>
 → Moved to Amsterdam to work at Netflix, fell in love with data-driven decision making <br>
