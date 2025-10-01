@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Big fan of bridging storytelling, data, abd visualization to make information simpler and more accessible.
+
+Here's how it happened:
+
+→ Graduated with BA in Sound Engineering
+→ Worked as a promoter and booking agent in Berlin
+→ Moved to Amsterdam to work at Netflix, fell in love with data-driven decision making
+→ Learned SQL, Python, Tableau, and dashboard design by working on passion projects
+→ Transitioned to data analyst and BI roles 
+
+Some recent projects:
+🏙️ How Amsterdam expanded over time
+🎶 Bob Dylan's discography exploration
