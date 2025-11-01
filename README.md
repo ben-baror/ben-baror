@@ -24,6 +24,7 @@ I'm Ben. I love bridging storytelling, data, and visualization to make informati
 → Transitioned to data analyst and BI roles 
 
 ### 🛠️ Some recent projects: <br>
+🎛️ [How Hardwax describes electronic music](https://github.com/ben-baror/hardwax_descriptions) <br>
 ⚽ [Premier League: The Big Six Era](https://github.com/ben-baror/epl_big_6_rankings_viz) <br>
 🏙️ [How Amsterdam expanded over time](https://github.com/ben-baror/amsterdam-construction-history) <br>
 🎶 [Bob Dylan's discography exploration](https://github.com/ben-baror/bob-dylan-discography-viz) <br>
