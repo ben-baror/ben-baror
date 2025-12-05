@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Ben. I love bridging storytelling, data, and visualization to make information clear and accessible.
+I'm Ben. I love telling stories with data and visualising information in a clear and accessible way.
 
 ### 🌱 Here's how I got into it:<br>
 → Graduated with BA in Sound Engineering <br>
