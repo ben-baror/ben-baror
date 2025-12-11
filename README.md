@@ -24,7 +24,7 @@ I'm Ben. I love telling stories with data and visualising information in a clear
 → Transitioned to data analyst and BI roles 
 
 ### 🛠️ Some recent projects: <br>
-#### Automation: <br>
+#### Automation:
 ###### Projects focused on building time-saving systems eliminating repetitive and manual work. <br>
 🏘️ [Exarcheia real estate tracker](https://github.com/ben-baror/realestate-listings-tracker-exarcheia)<br>
 
