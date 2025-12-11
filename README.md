@@ -31,14 +31,14 @@ I'm Ben. I love telling stories with data and visualising information in a clear
 
 ### 🛠️ Some recent projects: <br>
 #### Automation:
-🏘️ [Exarcheia real estate tracker](https://github.com/ben-baror/realestate-listings-tracker-exarcheia)<br>
+* 🏘️ [Exarcheia real estate tracker](https://github.com/ben-baror/realestate-listings-tracker-exarcheia)<br>
 
-#### Data Acquisition & Visualisation: <br>
-⚽ [Measuring inequality in Europe’s football top 5 leagues (2004–2026)](https://github.com/ben-baror/top5-eu-leagues-squad-values) <br>
-🎛️ [How Hardwax describes electronic music](https://github.com/ben-baror/hardwax_descriptions) <br>
-🏆 [Premier League: The Big Six Era](https://github.com/ben-baror/epl_big_6_rankings_viz) <br>
-🏙️ [How Amsterdam expanded over time](https://github.com/ben-baror/amsterdam-construction-history) <br>
-🎶 [Bob Dylan's discography exploration](https://github.com/ben-baror/bob-dylan-discography-viz) <br>
+#### Data Acquisition & Visualisation:
+* ⚽ [Measuring inequality in Europe’s football top 5 leagues (2004–2026)](https://github.com/ben-baror/top5-eu-leagues-squad-values) <br>
+* 🎛️ [How Hardwax describes electronic music](https://github.com/ben-baror/hardwax_descriptions) <br>
+* 🏆 [Premier League: The Big Six Era](https://github.com/ben-baror/epl_big_6_rankings_viz) <br>
+* 🏙️ [How Amsterdam expanded over time](https://github.com/ben-baror/amsterdam-construction-history) <br>
+* 🎶 [Bob Dylan's discography exploration](https://github.com/ben-baror/bob-dylan-discography-viz) <br>
 ---
 
 ### 📫 Get in touch: <br>
