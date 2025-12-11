@@ -33,12 +33,9 @@ I'm Ben. I love telling stories with data and visualising information in a clear
 #### Automation:
 🏘️ [Exarcheia real estate tracker](https://github.com/ben-baror/realestate-listings-tracker-exarcheia)<br>
 
-#### Data Acquisition (Web Scraping Focus)
+#### Data Acquisition & Visualisation: <br>
 ⚽ [Measuring inequality in Europe’s football top 5 leagues (2004–2026)](https://github.com/ben-baror/top5-eu-leagues-squad-values) <br>
 🎛️ [How Hardwax describes electronic music](https://github.com/ben-baror/hardwax_descriptions) <br>
-
-#### Visualisations 
-###### Fun projects focused on visual communication of insights from data to a non-technical audience.
 🏆 [Premier League: The Big Six Era](https://github.com/ben-baror/epl_big_6_rankings_viz) <br>
 🏙️ [How Amsterdam expanded over time](https://github.com/ben-baror/amsterdam-construction-history) <br>
 🎶 [Bob Dylan's discography exploration](https://github.com/ben-baror/bob-dylan-discography-viz) <br>
