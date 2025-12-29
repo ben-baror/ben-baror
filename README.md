@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 ###### Projects focused on visual communication of insights from data to a non-technical audience. <br>
 -->
 I'm Ben. I love telling stories with data and visualising information in a clear and accessible way.
-
+<!--
 ### 🌱 Here's how I got into it:<br>
 → Graduated with BA in Sound Engineering <br>
 → Worked as a promoter and booking agent in Berlin <br>
 → Moved to Amsterdam to work at Netflix, fell in love with data-driven decision making <br>
 → Learned SQL, python, tableau, statistics, and graphic design by working on real projects <br>
 → Transitioned to data analyst and BI roles 
-
+-->
 ### 🛠️ Some recent projects: <br>
 #### Automation:
 * 🏘️ [Exarcheia real estate tracker](https://github.com/ben-baror/realestate-listings-tracker-exarcheia)<br>
